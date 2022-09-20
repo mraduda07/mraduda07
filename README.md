@@ -1,0 +1,3 @@
+- 👋 Oi, eu sou @mraduda07
+- 👀 eu estou interessado em programar
+- 🌱 eu estou aprendendo a programar JavaScript
